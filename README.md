@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jacknemetz
-- 👀 I’m interested in Data Science and Ai
+- Hi, I’m @jacknemetz
+- I’m interested in Data Science and Ai
 
 <!---
 jacknemetz/jacknemetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
